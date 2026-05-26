@@ -1,0 +1,1 @@
+class EmailProcessor:\n    def process(self, email):\n        return email
